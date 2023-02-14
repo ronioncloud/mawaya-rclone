@@ -12,7 +12,7 @@ require (
 	github.com/abbot/go-http-auth v0.4.0
 	github.com/anacrolix/dms v1.1.0
 	github.com/atotto/clipboard v0.1.2
-	github.com/aws/aws-sdk-go v1.29.9
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/billziss-gh/cgofuse v1.2.0
 	github.com/coreos/go-semver v0.3.0
 	github.com/djherbis/times v1.2.0
